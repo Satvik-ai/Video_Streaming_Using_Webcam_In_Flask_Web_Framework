@@ -14,7 +14,7 @@ This project demonstrates a simple video streaming application using a webcam an
 
     ```bash
     git clone https://github.com/Satvik-ai/Video_Streaming_Using_Webcam_In_Flask_Web_Framework.git
-    cd video-streaming-flask
+    cd Video_Streaming_Using_Webcam_In_Flask_Web_Framework-main
     ```
 
 2. **Create a virtual environment (optional but recommended):**
