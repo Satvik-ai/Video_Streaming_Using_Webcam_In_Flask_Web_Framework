@@ -51,6 +51,8 @@ This project demonstrates a simple yet effective **video streaming application**
     http://127.0.0.1:5000/
     ```
 
+---
+
 ## 📚 Reference
 
 This project is inspired by [Krishnaik's Flask Video Streaming Tutorial](https://github.com/krishnaik06/Flask-Web-Framework/tree/main/Tutorial%207).
