@@ -43,3 +43,7 @@ This project demonstrates a simple video streaming application using a webcam an
     ```
     http://127.0.0.1:5000/
     ```
+
+## Reference
+
+[Reference](https://github.com/krishnaik06/Flask-Web-Framework/tree/main/Tutorial%207)
