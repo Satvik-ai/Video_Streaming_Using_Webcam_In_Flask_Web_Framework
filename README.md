@@ -1,4 +1,4 @@
-# 📹 Video Streaming Using Webcam in Flask Web Framework
+# 📹 VideoStream
 
 This project demonstrates a simple yet effective **video streaming application** using a webcam and the **Flask** web framework. It captures live video using **OpenCV** and streams it in real-time to a web page using Flask’s `Response` object with multipart JPEG format.
 
